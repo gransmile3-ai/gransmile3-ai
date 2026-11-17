@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="76" viewBox="0 0 1200 76" font-family="Inter,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',Helvetica,Arial,sans-serif">
+<rect x="232.0" y="16" width="116" height="44" rx="22" fill="#111a33" stroke="#3b82f6" stroke-opacity=".55" stroke-width="1.5"/><circle cx="256.0" cy="38" r="6" fill="#3b82f6"/><text x="272.0" y="44" font-size="16" font-weight="600" fill="#e5e9ff">Python</text>
+<rect x="364.0" y="16" width="126" height="44" rx="22" fill="#111a33" stroke="#f97316" stroke-opacity=".55" stroke-width="1.5"/><circle cx="388.0" cy="38" r="6" fill="#f97316"/><text x="404.0" y="44" font-size="16" font-weight="600" fill="#e5e9ff">PyTorch</text>
+<rect x="506.0" y="16" width="116" height="44" rx="22" fill="#111a33" stroke="#fbbf24" stroke-opacity=".55" stroke-width="1.5"/><circle cx="530.0" cy="38" r="6" fill="#fbbf24"/><text x="546.0" y="44" font-size="16" font-weight="600" fill="#e5e9ff">Flower</text>
+<rect x="638.0" y="16" width="106" height="44" rx="22" fill="#111a33" stroke="#34d399" stroke-opacity=".55" stroke-width="1.5"/><circle cx="662.0" cy="38" r="6" fill="#34d399"/><text x="678.0" y="44" font-size="16" font-weight="600" fill="#e5e9ff">ROS 2</text>
+<rect x="760.0" y="16" width="106" height="44" rx="22" fill="#111a33" stroke="#e5e7eb" stroke-opacity=".55" stroke-width="1.5"/><circle cx="784.0" cy="38" r="6" fill="#e5e7eb"/><text x="800.0" y="44" font-size="16" font-weight="600" fill="#e5e9ff">Linux</text>
+<rect x="882.0" y="16" width="86" height="44" rx="22" fill="#111a33" stroke="#f43f5e" stroke-opacity=".55" stroke-width="1.5"/><circle cx="906.0" cy="38" r="6" fill="#f43f5e"/><text x="922.0" y="44" font-size="16" font-weight="600" fill="#e5e9ff">Git</text>
+</svg>

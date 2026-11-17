@@ -1,36 +1,21 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gransmile3-ai/gransmile3-ai/main/banner.svg" width="100%" alt="gransmile3-ai"/>
+<img src="https://raw.githubusercontent.com/gransmile3-ai/gransmile3-ai/main/assets/hero.svg" width="100%" alt="gransmile3-ai · Federated Learning · ML · Robotics"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/gransmile3-ai/gransmile3-ai/main/assets/stack.svg" width="100%" alt="Python · PyTorch · Flower · ROS 2 · Linux · Git"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,linux,git,docker&theme=dark"/>
+<img src="https://raw.githubusercontent.com/gransmile3-ai/gransmile3-ai/main/assets/focus.svg" width="100%" alt="연합학습 · 로보틱스 · 음악 AI"/>
 
-</div>
+<br/><br/>
+
+<a href="https://github.com/gransmile3-ai/federated-learning-experiments"><img src="https://raw.githubusercontent.com/gransmile3-ai/gransmile3-ai/main/assets/featured.svg" width="100%" alt="federated-learning-experiments: FedProx μ=0.05 reaches 55.8% vs FedAvg 51.0%"/></a>
 
 <br/>
 
-### 🔬 What I'm working on
-| | |
-|---|---|
-| **연합학습** | Flower + PyTorch로 Non-IID 환경 FedAvg / FedProx 비교 |
-| **로보틱스** | TurtleBot4 · ROS2 |
-| **음악 AI** | MIDI 작곡 모델 |
-
-### 📌 Featured project: [federated-learning-experiments](https://github.com/gransmile3-ai/federated-learning-experiments)
-<div align="center">
-
-<a href="https://github.com/gransmile3-ai/federated-learning-experiments"><img src="https://raw.githubusercontent.com/gransmile3-ai/federated-learning-experiments/main/NonIID/report/sweep30_mu.png" width="80%"/></a>
-
-**FedProx μ=0.05 → 30라운드 최종 정확도 55.8% (FedAvg 51.0%, +4.8%p)**
+<img src="https://raw.githubusercontent.com/gransmile3-ai/gransmile3-ai/main/assets/footer.svg" width="100%" alt=""/>
 
 </div>
-
-| 설정 (lr=0.005, 30라운드) | 최종 정확도 |
-|---|---|
-| FedAvg | 50.98% |
-| FedProx μ=0.01 | 53.93% |
-| FedProx μ=0.02 | 54.66% |
-| **FedProx μ=0.05** | **55.76%** |
-
-> Flower + PyTorch · Non-IID(Dirichlet α=0.3) · 시드 1회 실행 결과
