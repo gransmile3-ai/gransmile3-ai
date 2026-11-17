@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
-<defs><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#4f46e5"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
-<clipPath id="c"><rect width="1200" height="90" rx="22"/></clipPath></defs>
-<g clip-path="url(#c)">
-<path fill="url(#w)" fill-opacity=".35" d="M0 40 Q 150 10 300 40 T 600 40 T 900 40 T 1200 40 T 1500 40 T 1800 40 V90 H0Z"><animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="14s" repeatCount="indefinite"/></path>
-<path fill="url(#w)" fill-opacity=".6" d="M0 56 Q 150 30 300 56 T 600 56 T 900 56 T 1200 56 T 1500 56 T 1800 56 V90 H0Z"><animateTransform attributeName="transform" type="translate" from="-600 0" to="0 0" dur="10s" repeatCount="indefinite"/></path>
-</g></svg>
