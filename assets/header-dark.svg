@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" font-family="-apple-system,'Segoe UI','Apple SD Gothic Neo','Noto Sans KR','Malgun Gothic',Helvetica,Arial,sans-serif">
+<rect x=".5" y=".5" width="1199" height="189" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="48" y="54" width="4" height="82" rx="2" fill="#58a6ff"/>
+<text x="72" y="96" font-size="46" font-weight="700" fill="#e6edf3">gransmile3-ai</text>
+<text x="74" y="132" font-size="20" fill="#8b949e">Federated Learning · Machine Learning · Robotics</text>
+<text x="1152" y="150" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#8b949e">FedAvg vs FedProx, Non-IID</text>
+</svg>
